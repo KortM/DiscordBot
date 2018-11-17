@@ -1,3 +1,4 @@
 Discord.py
 mutagen
 PyNaCl
+libopus0
