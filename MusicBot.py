@@ -183,4 +183,4 @@ def check_queue(id,):
         players[id] = player
         player.start()
 if __name__=='__main__':
-    client.run(os.getenv('BOT_TOKEN'))
+    client.run(os.getenv('TOKEN'))
