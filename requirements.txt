@@ -1,4 +1,4 @@
 Discord.py
 mutagen
 PyNaCl
-libopus0
+opuslib
