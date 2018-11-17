@@ -20,6 +20,8 @@ async def on_ready():
     print('Logged in as', client.user.name)
     print(client.user.id)
     print('================')
+    if not discord.opus.is_loaded():
+        discord.opus.load_opus('opus')
 
 
 @client.command(pass_context=True)
