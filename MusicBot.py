@@ -1,5 +1,4 @@
 import discord
-import requests
 from discord.ext import commands
 from Audio import Music
 from mutagen.mp3 import MP3
