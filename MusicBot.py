@@ -4,7 +4,7 @@ from Audio import Music
 from mutagen.mp3 import MP3
 import os
 import asyncio
-BOT_TOKEN = 'NTEyMzc3MjU0NTgwMzIyMzA0.Ds4qIg.FGVcxoNOLens7RbyJJ93Ng_ncxU'
+BOT_TOKEN = 'You token here'
 client = commands.Bot(command_prefix='!')
 
 players  = {}
